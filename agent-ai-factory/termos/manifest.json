@@ -1,0 +1,18 @@
+{
+  "package": "EUROFARMA AI-AGENT FACTORY Legal Pages",
+  "version": "1.1",
+  "date": "2026-08-26",
+  "experience_mode": [
+    "Enterprise",
+    "Agentic AI"
+  ],
+  "pages": {
+    "privacy": "privacidade.html",
+    "terms": "termos.html",
+    "landing": "index.html"
+  },
+  "status": "draft-for-legal-review",
+  "public_name": "EUROFARMA AI-AGENT FACTORY",
+  "internal_alias": "MASTER",
+  "public_alias_policy": "Do not expose internal alias in public-facing content."
+}
